@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="186b2c2f-9b5f-4150-a192-1bbaddf205d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/praktikum-homeworkbot.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +31,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -76,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599789940463</updated>
-      <workItem from="1599789941560" duration="995000" />
+      <workItem from="1599789941560" duration="2208000" />
     </task>
     <servers />
   </component>
@@ -88,6 +86,10 @@
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state x="304" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/-791.-1440.3440.1440/0.23.1680.947@0.23.1680.947" timestamp="1599790490318" />
+    <state x="564" y="305" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599791045808">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="564" y="305" key="#com.intellij.fileTypes.FileTypeChooser/-791.-1440.3440.1440/0.23.1680.947@0.23.1680.947" timestamp="1599791045808" />
     <state width="1638" height="254" key="GridCell.Tab.0.bottom" timestamp="1599790706477">
       <screen x="0" y="23" width="1680" height="947" />
     </state>

@@ -51,7 +51,7 @@ def send_message(message):
 
 
 def main():
-    current_timestamp = int(time.time())
+    current_timestamp = int(200)
 
     while True:
         try:
